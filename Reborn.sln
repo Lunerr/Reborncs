@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reborn", "Reborn\Reborn.csproj", "{F32E07B2-1872-4275-855F-57237600886B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32E07B2-1872-4275-855F-57237600886B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32E07B2-1872-4275-855F-57237600886B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32E07B2-1872-4275-855F-57237600886B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32E07B2-1872-4275-855F-57237600886B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE5288F4-933D-4DC6-883F-C1997428AB89}
+	EndGlobalSection
+EndGlobal
